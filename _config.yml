@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Альпклуб «Пенза»
+description: Официальный сайт альпклуба «Пенза»
+logo: /assets/img/logo.png
+github:
+  is_user_page: false
