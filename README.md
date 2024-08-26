@@ -6,7 +6,7 @@
 ### Контакты
 
 vk: [alpclubpenza](http://vk.com/alpclubpenza)
-<br>alppenza@gmail.com
+<br>email: [alppenza@gmail.com](mailto:alppenza@gmail.com)
 
 ---
 
